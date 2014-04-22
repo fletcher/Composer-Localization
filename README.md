@@ -4,12 +4,12 @@ Composer-Localization
 String files for localizing the MultiMarkdown Composer application
 
 
-The `master` branch is the default English localization.
+FYI, the `master` branch is the default English localization.
 
 
 ## What is this? ##
 
-MultiMarkdown Composer is a commercial application, but it's not so big that I can afford to hire translators to localize the app into countless languages.  People across the world have asked me about this, so I decided that I would at least make the necessary files available to help crowdsource the localization if anyone is interested.
+MultiMarkdown Composer is a commercial application, but it's not so big that I can afford to hire translators to localize the app into countless languages.  People across the world have asked me about this, so I decided that I would at least make the necessary files available to help crowdsource the localization if anyone is interested.  This way, there is at least the possibility of localizing to other languages if there is enough interest and support.  I'll do what I can to help.
 
 Basically, you use the files as a template to translate to your desired language.  Once complete (or complete-"ish") I can use these to generate the necessary files for the app to be localized.
 
@@ -59,9 +59,9 @@ This would cause the HUD name to be "Something new" instead of "Metadata".
 
 ## Sharing your changes ##
 
-You'll need to send me a pull request for your changes.  That's outside the scope of this howto.
+You'll need to send me a pull request for your changes.  That's outside the scope of this how-to.
 
-If you're good at translating, but not so good at git/github, then contact me and we can work something out.
+If you're good at translating, but not so good at git/github, then contact me and we can work something out -- you can send me the files and I'll upload them.
 
 
 ## Quality control ##
