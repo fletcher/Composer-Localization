@@ -32,13 +32,13 @@
 "Reject" = "Rejeter";
 
 /* Info HUD indicator of selected sections in TOC */
-"Selected Sections" = "Sections Sélectionnées";
+"Selected Sections" = "Sections sélectionnées";
 
 /* Info HUD indicator of selected text */
-"Selected Text" = "Texte Sélectionné";
+"Selected Text" = "Texte sélectionné";
 
 /* TOC HUD title */
-"TOC" = "TOC";
+"TOC" = "TdM";
 
 /* Word count label */
 "Words" = "Mots";
