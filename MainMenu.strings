@@ -20,7 +20,7 @@
 "57.title" = "Composer";
 
 /* Class = "NSMenuItem"; title = "About Composer"; ObjectID = "58"; */
-"58.title" = "About Composer";
+"58.title" = "A propos de Composer";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
 "72.title" = "Ouvrir…";
@@ -47,7 +47,7 @@
 "83.title" = "Fichier";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "112"; */
-"112.title" = "Revert to Saved";
+"112.title" = "Revenir à la dernière version sauvée";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
 "124.title" = "Ouvrir un élément récent";
@@ -65,10 +65,10 @@
 "131.title" = "Services";
 
 /* Class = "NSMenuItem"; title = "Hide Composer"; ObjectID = "134"; */
-"134.title" = "Hide Composer";
+"134.title" = "Cacher Composer";
 
 /* Class = "NSMenuItem"; title = "Quit Composer"; ObjectID = "136"; */
-"136.title" = "Quit Composer";
+"136.title" = "Quitter Composer";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
 "145.title" = "Masquer les autres";
@@ -92,7 +92,7 @@
 "200.title" = "Orthographe et grammaire";
 
 /* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "201"; */
-"201.title" = "Check Document Now";
+"201.title" = "Vérifier le document maintenant";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; */
 "202.title" = "Supprimer";
@@ -116,7 +116,7 @@
 "209.title" = "Rechercher…";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "210"; */
-"210.title" = "Jump to Selection";
+"210.title" = "Aller à la sélection";
 
 /* Class = "NSMenuItem"; title = "Speech"; ObjectID = "211"; */
 "211.title" = "Parler";
@@ -152,10 +152,10 @@
 "239.title" = "Zoomer";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "295"; */
-"295.title" = "View";
+"295.title" = "Présentation";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "296"; */
-"296.title" = "View";
+"296.title" = "Présentation";
 
 /* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "346"; */
 "346.title" = "Vérifier l'orthographe et la grammaire";
@@ -197,10 +197,10 @@
 "453.title" = "Mettre en majuscule";
 
 /* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "457"; */
-"457.title" = "Smart Dashes";
+"457.title" = "Tirets intelligents";
 
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "458"; */
-"458.title" = "Show Substitutions";
+"458.title" = "Montrer les remplacements";
 
 /* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "462"; */
 "462.title" = "Remplacement de texte";
@@ -215,13 +215,13 @@
 "492.title" = "Aide";
 
 /* Class = "NSMenuItem"; title = "MultiMarkdown Composer Help"; ObjectID = "493"; */
-"493.title" = "MultiMarkdown Composer Help";
+"493.title" = "Aide MultiMarkdown Composer";
 
 /* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "532"; */
 "532.title" = "Rechercher et remplacer…";
 
 /* Class = "NSMenuItem"; title = "Unwrap Paragraph(s)"; ObjectID = "536"; */
-"536.title" = "Unwrap Paragraph(s)";
+"536.title" = "Dérouler le(s) paragraphe(s)";
 
 /* Class = "NSMenuItem"; title = "Replace Tabs with Spaces"; ObjectID = "537"; */
 "537.title" = "Remplacer les tabulations par des espaces";
@@ -236,34 +236,34 @@
 "549.title" = "Déplacer";
 
 /* Class = "NSMenuItem"; title = "Shift Left"; ObjectID = "550"; */
-"550.title" = "Shift Left";
+"550.title" = "Décaler à gauche";
 
 /* Class = "NSMenuItem"; title = "Shift Right"; ObjectID = "552"; */
-"552.title" = "Shift Right";
+"552.title" = "Décaler à droite";
 
 /* Class = "NSMenuItem"; title = "Shift Up"; ObjectID = "553"; */
-"553.title" = "Shift Up";
+"553.title" = "Décaler vers le haut";
 
 /* Class = "NSMenuItem"; title = "Shift Down"; ObjectID = "554"; */
-"554.title" = "Shift Down";
+"554.title" = "Décaler vers le bas";
 
 /* Class = "NSMenuItem"; title = "Clean up Selected List(s)"; ObjectID = "576"; */
-"576.title" = "Clean up Selected List(s)";
+"576.title" = "Nettoyer le(s) liste(s) sélectionné(s)";
 
 /* Class = "NSMenuItem"; title = "Toggle Reference Panel"; ObjectID = "581"; */
-"581.title" = "Toggle Reference Panel";
+"581.title" = "Afficher l'inspecteur de référence";
 
 /* Class = "NSMenuItem"; title = "Toggle TOC Panel"; ObjectID = "583"; */
-"583.title" = "Toggle TOC Panel";
+"583.title" = "Afficher l'inspecteur de TdM";
 
 /* Class = "NSMenuItem"; title = "Clean up Selected Table(s)"; ObjectID = "586"; */
-"586.title" = "Clean up Selected Table(s)";
+"586.title" = "Nettoyer le(s) tableau(x) sélectionné(s)";
 
 /* Class = "NSMenuItem"; title = "Toggle Info Panel"; ObjectID = "589"; */
-"589.title" = "Toggle Info Panel";
+"589.title" = "Afficher l'inspecteur d'information";
 
 /* Class = "NSMenuItem"; title = "Show Preview"; ObjectID = "595"; */
-"595.title" = "Show Preview";
+"595.title" = "Afficher l'aperçu";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "601"; */
 "601.title" = "Zoom";
@@ -272,79 +272,79 @@
 "602.title" = "Zoom";
 
 /* Class = "NSMenuItem"; title = "Zoom Editor In"; ObjectID = "604"; */
-"604.title" = "Zoom Editor In";
+"604.title" = "Zoomer dans l'éditeur";
 
 /* Class = "NSMenuItem"; title = "Zoom Editor Out"; ObjectID = "605"; */
-"605.title" = "Zoom Editor Out";
+"605.title" = "Dézoomer dans l'éditeur";
 
 /* Class = "NSMenuItem"; title = "Bold"; ObjectID = "619"; */
-"619.title" = "Bold";
+"619.title" = "Gras";
 
 /* Class = "NSMenuItem"; title = "Italic"; ObjectID = "620"; */
-"620.title" = "Italic";
+"620.title" = "Italique";
 
 /* Class = "NSMenuItem"; title = "Export…"; ObjectID = "626"; */
-"626.title" = "Export…";
+"626.title" = "Exporter…";
 
 /* Class = "NSMenuItem"; title = "Print Preview…"; ObjectID = "631"; */
-"631.title" = "Print Preview…";
+"631.title" = "Imprimer l'aperçu…";
 
 /* Class = "NSMenuItem"; title = "Copy As"; ObjectID = "634"; */
-"634.title" = "Copy As";
+"634.title" = "Copier comme";
 
 /* Class = "NSMenu"; title = "Copy As"; ObjectID = "635"; */
-"635.title" = "Copy As";
+"635.title" = "Copier comme";
 
 /* Class = "NSMenuItem"; title = "HTML"; ObjectID = "636"; */
 "636.title" = "HTML";
 
 /* Class = "NSMenuItem"; title = "Rich Text"; ObjectID = "637"; */
-"637.title" = "Rich Text";
+"637.title" = "Texte riche";
 
 /* Class = "NSMenuItem"; title = "Paste As"; ObjectID = "640"; */
-"640.title" = "Paste As";
+"640.title" = "Copier comme";
 
 /* Class = "NSMenu"; title = "Paste As"; ObjectID = "641"; */
-"641.title" = "Paste As";
+"641.title" = "Copier comme";
 
 /* Class = "NSMenuItem"; title = "Bulleted List"; ObjectID = "643"; */
-"643.title" = "Bulleted List";
+"643.title" = "Liste à puces";
 
 /* Class = "NSMenuItem"; title = "Enumerated List"; ObjectID = "644"; */
-"644.title" = "Enumerated List";
+"644.title" = "Liste énumérée";
 
 /* Class = "NSMenuItem"; title = "Blockquote"; ObjectID = "645"; */
-"645.title" = "Blockquote";
+"645.title" = "Bloc de citaiton";
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "649"; */
-"649.title" = "Enter Full Screen";
+"649.title" = "Activer le mode plein écran";
 
 /* Class = "NSMenuItem"; title = "Typewriter Mode"; ObjectID = "651"; */
-"651.title" = "Typewriter Mode";
+"651.title" = "Mode machine à écrire";
 
 /* Class = "NSMenuItem"; title = "Auto Zoom"; ObjectID = "652"; */
-"652.title" = "Auto Zoom";
+"652.title" = "Zoom automatique";
 
 /* Class = "NSMenuItem"; title = "Selection"; ObjectID = "656"; */
-"656.title" = "Selection";
+"656.title" = "Sélection";
 
 /* Class = "NSMenu"; title = "Selection"; ObjectID = "657"; */
-"657.title" = "Selection";
+"657.title" = "Sélection";
 
 /* Class = "NSMenuItem"; title = "Increase"; ObjectID = "658"; */
-"658.title" = "Increase";
+"658.title" = "Augmenter";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "659"; */
-"659.title" = "Select All";
+"659.title" = "Tout sélectionner";
 
 /* Class = "NSMenuItem"; title = "Decrease"; ObjectID = "661"; */
-"661.title" = "Decrease";
+"661.title" = "Diminuer";
 
 /* Class = "NSMenuItem"; title = "Preview with Marked"; ObjectID = "664"; */
-"664.title" = "Preview with Marked";
+"664.title" = "Aperçu avec Marked";
 
 /* Class = "NSMenuItem"; title = "Toggle List Type"; ObjectID = "674"; */
-"674.title" = "Toggle List Type";
+"674.title" = "Activer le type liste";
 
 /* Class = "NSMenuItem"; title = "LaTeX"; ObjectID = "677"; */
 "677.title" = "LaTeX";
@@ -356,28 +356,28 @@
 "682.title" = "Markdown";
 
 /* Class = "NSWindow"; title = "MultiMarkdown Syntax Guide"; ObjectID = "690"; */
-"690.title" = "MultiMarkdown Syntax Guide";
+"690.title" = "Guide de syntaxe MultiMarkdown";
 
 /* Class = "NSMenuItem"; title = "Syntax Guide"; ObjectID = "697"; */
-"697.title" = "Syntax Guide";
+"697.title" = "Guide de syntaxe";
 
 /* Class = "NSMenuItem"; title = "Merge with mmd_merge"; ObjectID = "702"; */
-"702.title" = "Merge with mmd_merge";
+"702.title" = "Fusionner avec mmd_merge";
 
 /* Class = "NSMenuItem"; title = "Focus Mode"; ObjectID = "704"; */
-"704.title" = "Focus Mode";
+"704.title" = "Mode focus";
 
 /* Class = "NSWindow"; title = "Preferences"; ObjectID = "707"; */
-"707.title" = "Preferences";
+"707.title" = "Préférences";
 
 /* Class = "NSTabViewItem"; label = "Syntax"; ObjectID = "710"; */
-"710.label" = "Syntax";
+"710.label" = "Syntaxe";
 
 /* Class = "NSTabViewItem"; label = "General"; ObjectID = "711"; */
-"711.label" = "General";
+"711.label" = "Général";
 
 /* Class = "NSMatrix"; ibShadowedToolTip = "Which syntax should be used when adding markers for italics."; ObjectID = "728"; */
-"728.ibShadowedToolTip" = "Which syntax should be used when adding markers for italics.";
+"728.ibShadowedToolTip" = "Quelle syntaxe doit être utilisée pour ajouter des marqueurs pour les italiques.";
 
 /* Class = "NSButtonCell"; title = "Radio"; ObjectID = "729"; */
 "729.title" = "Radio";
@@ -389,7 +389,7 @@
 "731.title" = "_";
 
 /* Class = "NSMatrix"; ibShadowedToolTip = "Which syntax should be used when adding markers for bold."; ObjectID = "732"; */
-"732.ibShadowedToolTip" = "Which syntax should be used when adding markers for bold.";
+"732.ibShadowedToolTip" = "Quelle syntaxe doit être utilisée pour ajouter des marqueurs pour les mots en gras.";
 
 /* Class = "NSButtonCell"; title = "__"; ObjectID = "733"; */
 "733.title" = "__";
@@ -401,37 +401,37 @@
 "735.title" = "Radio";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Which syntax should be used when adding markers for italics."; ObjectID = "746"; */
-"746.ibShadowedToolTip" = "Which syntax should be used when adding markers for italics.";
+"746.ibShadowedToolTip" = "Quelle syntaxe doit être utilisée pour ajouter des marqueurs pour les italiques.";
 
 /* Class = "NSTextFieldCell"; title = "Marker for italics"; ObjectID = "747"; */
-"747.title" = "Marker for italics";
+"747.title" = "Marqueur pour les italiques";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Which syntax should be used when adding markers for bold."; ObjectID = "748"; */
-"748.ibShadowedToolTip" = "Which syntax should be used when adding markers for bold.";
+"748.ibShadowedToolTip" = "Quelle syntaxe doit être utilisée pour ajouter des marqueurs pour les mots en gras.";
 
 /* Class = "NSTextFieldCell"; title = "Marker for bold"; ObjectID = "749"; */
-"749.title" = "Marker for bold";
+"749.title" = "Marqueurs pour les mots en gras";
 
 /* Class = "NSMatrix"; ibShadowedToolTip = "When converting tabs to spaces, how many to use?"; ObjectID = "750"; */
-"750.ibShadowedToolTip" = "When converting tabs to spaces, how many to use?";
+"750.ibShadowedToolTip" = "En convertissant les tabulations en espaces, combien en utiliser ?";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "When converting tabs to spaces, how many to use?"; ObjectID = "751"; */
-"751.ibShadowedToolTip" = "When converting tabs to spaces, how many to use?";
+"751.ibShadowedToolTip" = "En convertissant les tabulations en espaces, combien en utiliser ?";
 
 /* Class = "NSTextFieldCell"; title = "Tabs are equal to"; ObjectID = "752"; */
-"752.title" = "Tabs are equal to";
+"752.title" = "Les tabulations sont égales à";
 
 /* Class = "NSButtonCell"; title = "8 spaces"; ObjectID = "753"; */
-"753.title" = "8 spaces";
+"753.title" = "8 espaces";
 
 /* Class = "NSButtonCell"; title = "4 spaces"; ObjectID = "754"; */
-"754.title" = "4 spaces";
+"754.title" = "4 espaces";
 
 /* Class = "NSButtonCell"; title = "Radio"; ObjectID = "755"; */
 "755.title" = "Radio";
 
 /* Class = "NSTabViewItem"; label = "Editing"; ObjectID = "762"; */
-"762.label" = "Editing";
+"762.label" = "Editer";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Automatically match specified characters in pairs."; ObjectID = "764"; */
 "764.ibShadowedToolTip" = "Automatically match specified characters in pairs.";
@@ -1001,10 +1001,10 @@
 "3371.title" = "Regular Text";
 
 /* Class = "NSMenuItem"; title = "Zoom Preview In"; ObjectID = "3375"; */
-"3375.title" = "Zoom Preview In";
+"3375.title" = "Zommer dans l'aperçu";
 
 /* Class = "NSMenuItem"; title = "Zoom Preview Out"; ObjectID = "3376"; */
-"3376.title" = "Zoom Preview Out";
+"3376.title" = "Dézommer dans l'aperçu";
 
 /* Class = "NSMenuItem"; title = "Highlighted Source"; ObjectID = "3381"; */
 "3381.title" = "Highlighted Source";
